@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ChessPort">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/ChessPort.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
