@@ -20,7 +20,7 @@ import java.util.List;
 
 /**
  *
- * @author Tea Bag
+ * @author Tea BAG
  */
 public class Bishop extends Piece{
     
