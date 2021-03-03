@@ -22,7 +22,7 @@ import javax.swing.border.EtchedBorder;
 
 /**
  *
- * @author Winter
+ * @author Tea BAG
  */
 public class TakenPiecesPanel extends JPanel{
     
