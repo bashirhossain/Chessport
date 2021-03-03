@@ -17,7 +17,7 @@ import java.util.List;
 
 /**
  *
- * @author Winter
+ * @author Tea Bag
  */
 public class Pawn extends Piece{
     
