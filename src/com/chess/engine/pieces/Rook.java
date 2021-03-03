@@ -18,7 +18,7 @@ import java.util.List;
 /**
  * Quite similar to the bishop.
  * The vectors change and exclusions. Other than that, the rook is basically a bishop.
- * @author Winter
+ * @author Tea Bag
  */
 public class Rook extends Piece{
     
